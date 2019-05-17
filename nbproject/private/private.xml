@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp64/www/myshop/app/Product.php</file>
+            <file>file:/C:/wamp64/www/myshop/resources/views/event.blade.php</file>
+            <file>file:/C:/wamp64/www/myshop/app/Http/Controllers/EventsController.php</file>
+            <file>file:/C:/wamp64/www/myshop/database/migrations/2019_04_03_101248_create_offers_table.php</file>
+            <file>file:/C:/wamp64/www/myshop/routes/web.php</file>
+            <file>file:/C:/wamp64/www/myshop/database/seeds/DatabaseSeeder.php</file>
+            <file>file:/C:/wamp64/www/myshop/app/Http/Controllers/HomeController.php</file>
+            <file>file:/C:/wamp64/www/myshop/app/Offer.php</file>
+            <file>file:/C:/wamp64/www/myshop/app/User.php</file>
+            <file>file:/C:/wamp64/www/myshop/resources/views/welcome.blade.php</file>
+            <file>file:/C:/wamp64/www/myshop/app/Http/Controllers/OffersController.php</file>
+            <file>file:/C:/wamp64/www/myshop/app/Event.php</file>
+            <file>file:/C:/wamp64/www/myshop/resources/views/home.blade.php</file>
+            <file>file:/C:/wamp64/www/myshop/resources/views/offers_create.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
